@@ -54,7 +54,7 @@
   2. Após o passo anterior finalizar, rodei wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
   3. Depois, foi a vez de rodar sudo apt -y install ./google-chrome-stable_current_amd64.deb
   4. O passo 3 me retornou um erro, que resolvi rodando sudo apt autoremove e depois rodei novamente o comando do passo 3
-  5. # Por fim só verifiquei se tinha instalado normalmente com o comando google-chrome --version
+  5. ###### Por fim só verifiquei se tinha instalado normalmente com o comando google-chrome --version
 
   ==============================================================================
 
