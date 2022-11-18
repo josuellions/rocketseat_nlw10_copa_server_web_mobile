@@ -1,3 +1,5 @@
+![Banner](https://user-images.githubusercontent.com/28610102/202699979-0fb45475-a9ea-4b2b-a1e3-3cd0aa8679a4.png)
+
 ## OmniStack - NLW 10 - Copa
 
 ### Data: 31/10/2022 a 07/11/2022
